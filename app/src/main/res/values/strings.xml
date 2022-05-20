@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Controles</string>
+    <string name="click">Click</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+    <string name="seleccion">seleccion</string>
+    <string name="Cancelar">cancelar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="icono_baseline">icono</string>
+</resources>
